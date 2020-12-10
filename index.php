@@ -1,3 +1,4 @@
 <?php
-    echo 'very good';
+    echo 'very good<br>';
+    echo 'good by friend'
 ?>
